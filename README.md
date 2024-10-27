@@ -46,8 +46,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
-<span><img src="https://ton.org/icons/custom/ton_logo.svg" alt="Ton" title="Ton" height="25" /></span>
-&nbsp;
+<span><img src="https://ton.org/icons/custom/ton_logo.svg" alt="Ton" title="Ton" height="25" /> Blockchain</span>
+<br/>
 <span><img src="https://telegram.org/img/t_logo_sprite.svg" alt="Telegram" title="Telegram" height="25" /></span>
 &nbsp;
 
